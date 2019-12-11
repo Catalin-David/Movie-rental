@@ -1,0 +1,10 @@
+1,Mowgly,A boy in the jungle pretty much,Adventure
+2,Endgame,Thanos is not even relevant anymore,Action
+3,Joker,Finally a good movie came out this year,Thriller
+4,Facebook,That one movie about Mark Zuckerberg,Inspirational
+5,Last man standing,Fortnite battle royale simulator,Action
+6,Hunger games,Similar to fortnite battle royale but with better graphics,Game
+7,7 pinguins,The title is pretty much explanatory,Comedy
+8,Last Christmas,Some generic Christmas movie,Romance
+9,Fifty shades of Grey,Do I need to explain this one?,Romance
+10,Tall Grass,This one was so weeeeeiirdddd,Horror
